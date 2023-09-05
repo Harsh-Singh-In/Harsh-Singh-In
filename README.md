@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshvardhan Singh
 - 👀 I’m interested in frontend devlopment.
-- 🌱 I’m currently learning full stack devlopment (MERN Stack).
+- 🌱 I’m currently learning full stack web devlopment (MERN Stack).
 - 💞️ I’m looking to collaborate on a mega project using HTML CSS & JavaScript.
 - 📫 Connect with me on linkdin @www.linkedin.com/in/harshvardhan-singh09
 
